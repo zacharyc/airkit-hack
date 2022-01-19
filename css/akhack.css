@@ -1,0 +1,19 @@
+:root {
+	--primary-pink:#FF4E83;
+	--primary-blue: #001845;
+	
+	--secondary-pink: #FFA5CA;
+	--secondary-yellow:#FFCF21;
+	--secondary-orange:#FF6C00;
+	--secondary-blue:#1A3BE2;
+	--secondary-teal:#67D4D5;
+	
+}
+
+body {
+	font-family: 'Spartan', sans-serif;
+}
+
+h1, h2, h3, h4 {
+	font-weight: bold;
+}
